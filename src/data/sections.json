@@ -1,0 +1,136 @@
+{
+  "sections": [
+    {
+      "id": "home",
+      "title": "Home",
+      "icon": "Home",
+      "path": "/"
+    },
+    {
+      "id": "intro",
+      "title": "Git & GitHub Intro",
+      "icon": "GitBranch",
+      "path": "/intro"
+    },
+    {
+      "id": "repo-structure",
+      "title": "Repository Structure",
+      "icon": "FolderTree",
+      "path": "/repo-structure"
+    },
+    {
+      "id": "setup",
+      "title": "Setting Up Git",
+      "icon": "Settings",
+      "path": "/setup"
+    },
+    {
+      "id": "create-repo",
+      "title": "Creating a Repository",
+      "icon": "PlusCircle",
+      "path": "/create-repo"
+    },
+    {
+      "id": "status",
+      "title": "Git Status",
+      "icon": "Activity",
+      "path": "/status"
+    },
+    {
+      "id": "add-commit",
+      "title": "Add & Commit",
+      "icon": "GitCommit",
+      "path": "/add-commit"
+    },
+    {
+      "id": "commit-messages",
+      "title": "Commit Messages",
+      "icon": "MessageSquare",
+      "path": "/commit-messages"
+    },
+    {
+      "id": "branching",
+      "title": "Branching",
+      "icon": "GitBranch",
+      "path": "/branching"
+    },
+    {
+      "id": "feature-branches",
+      "title": "Feature Branches",
+      "icon": "GitPullRequest",
+      "path": "/feature-branches"
+    },
+    {
+      "id": "feature-workflow",
+      "title": "Feature Workflow",
+      "icon": "Workflow",
+      "path": "/feature-workflow"
+    },
+    {
+      "id": "pull-requests",
+      "title": "Pull Requests",
+      "icon": "GitPullRequestArrow",
+      "path": "/pull-requests"
+    },
+    {
+      "id": "merge",
+      "title": "Git Merge",
+      "icon": "GitMerge",
+      "path": "/merge"
+    },
+    {
+      "id": "conflicts",
+      "title": "Merge Conflicts",
+      "icon": "AlertTriangle",
+      "path": "/conflicts"
+    },
+    {
+      "id": "collaboration",
+      "title": "Collaboration",
+      "icon": "Users",
+      "path": "/collaboration"
+    },
+    {
+      "id": "readme",
+      "title": "README Training",
+      "icon": "FileText",
+      "path": "/readme"
+    },
+    {
+      "id": "gitignore",
+      "title": ".gitignore",
+      "icon": "EyeOff",
+      "path": "/gitignore"
+    },
+    {
+      "id": "issues",
+      "title": "GitHub Issues",
+      "icon": "CircleDot",
+      "path": "/issues"
+    },
+    {
+      "id": "projects",
+      "title": "GitHub Projects",
+      "icon": "Kanban",
+      "path": "/projects"
+    },
+    {
+      "id": "actions",
+      "title": "GitHub Actions",
+      "icon": "Zap",
+      "path": "/actions"
+    },
+    {
+      "id": "mistakes",
+      "title": "Common Mistakes",
+      "icon": "AlertCircle",
+      "path": "/mistakes"
+    },
+    {
+      "id": "best-practices",
+      "title": "Best Practices",
+      "icon": "CheckCircle",
+      "path": "/best-practices"
+    }
+  ]
+}
